@@ -24,8 +24,7 @@ An interactive Power BI dashboard that visualizes job salaries in the fields of 
 - Dataset: [Data Science, AI & ML Salaries 2025](https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs)
 
 ## 📸 Preview
-![{3D2B3205-A1F6-455C-96A3-629924E2A5E6}](https://github.com/user-attachments/assets/0d8a6c5a-e25f-48c8-b400-af30e2f54306)
-
+![{C56DEB61-EEFF-4788-B1AA-0790B5BE0FFC}](https://github.com/user-attachments/assets/0ace3f05-25b3-4118-bb48-b67e9c6f07bf)
 
 ## 🚀 How to Open
 To explore the dashboard:
